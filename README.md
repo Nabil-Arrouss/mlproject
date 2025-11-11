@@ -8,8 +8,6 @@ An end-to-end machine learning project.
 - [Getting Started](#getting-started)  
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
 
 
 ## Project Overview  
