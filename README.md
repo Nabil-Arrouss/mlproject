@@ -10,12 +10,7 @@ An end-to-end machine learning project.
   - [Installation](#installation)  
 - [Usage](#usage)  
 - [Project Structure](#project-structure)  
-- [Requirements](#requirements)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
 
----
 
 ## Project Overview  
 This project offers a full ML pipeline: from data ingestion and preprocessing, through model training and validation, to deployment-ready artifact generation.  
