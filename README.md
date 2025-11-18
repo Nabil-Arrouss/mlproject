@@ -28,9 +28,3 @@ It’s designed to be modular, extensible, and reproducible.
 - Python ≥ 3.x  
 - pip or conda for package management  
 - Git (to clone the repo)
-
-### Installation  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Nabil-Arrouss/mlproject.git
-   cd mlproject
